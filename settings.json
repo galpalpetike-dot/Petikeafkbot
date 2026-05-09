@@ -8,7 +8,7 @@
   "server": {
     "ip": "Colddsmp.aternos.me:52295",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,

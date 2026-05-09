@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Colddsmp.aternos.me:52295",
-    "port": 29195,
+    "ip": "Colddsmp.aternos.me",
+    "port": 52295,
     "version": "1.21.11"
   },
   "position": {
